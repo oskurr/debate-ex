@@ -1,0 +1,28 @@
+/* set font for all text on the page */
+
+
+
+* {
+font-family: Georgia, serif}
+
+/* make the headline uppercase with code*/
+h1{
+text-transform: uppercase;}
+
+figcaption {
+color: gray;}
+
+figure{
+	max-width: 600px;}
+
+	img{
+		max-width: 100%;}
+.blue{
+color:blue;}
+
+.red{
+color:red;}
+
+
+footer {
+color: gray;}
